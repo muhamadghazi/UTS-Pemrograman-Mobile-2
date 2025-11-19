@@ -14,7 +14,7 @@ Aplikasi sederhana berbasis Flutter yang memudahkan mahasiswa untuk memesan maka
 
 ## Dokumentasi Aplikasi
 
-[Video dokumentasi dan File Laporan]([https://drive.google.com/drive/folders/12gLUP-tL7GLCAZmR_5JKgVj5dMxRTnA5](https://drive.google.com/drive/folders/1yN0CBeIpoO-eh4Ej9XvW6phGnG8jXjZS?usp=drive_link))
+[Video dokumentasi dan File Laporan](https://drive.google.com/drive/folders/1yN0CBeIpoO-eh4Ej9XvW6phGnG8jXjZS?usp=drive_link)
 
 
 ---
