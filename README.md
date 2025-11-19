@@ -10,7 +10,7 @@ Proyek ini dibuat untuk memenuhi tugas UTS Pemrograman Mobile 2 dengan ketentuan
 - Menggunakan aset gambar (makanan/minuman)
 ---
 
-<h2 align="center">Tampilan Aplikasi</h2> <p align="center"> <img src="docs/tampilancrypto.JPG" width="45%" /> </p>
+<h2 align="center">Tampilan Aplikasi</h2> <p align="center"> <img src="" width="45%" /> </p>
 
 <p align="center">
   <img src="docs/tampilancrypto.JPG" width="45%" />
