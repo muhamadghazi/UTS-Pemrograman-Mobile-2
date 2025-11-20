@@ -12,9 +12,8 @@ Proyek ini dibuat untuk memenuhi tugas UTS Pemrograman Mobile 2 dengan ketentuan
 
 <h2 align="center">Tampilan Aplikasi</h2> <p align="center"> 
 
-![Tampilan Aplikasi](assets/docs/1.jpg)
-![Tampilan Aplikasi](assets/docs/2.jpg)
-
+<img src="assets/docs/1.jpg" width="300">
+<img src="assets/docs/2.jpg" width="300">
 ---
 <h2 align="center">Dokumentasi Aplikasi</h2> <p align="center"> 
   <a href="https://drive.google.com/drive/folders/1yN0CBeIpoO-eh4Ej9XvW6phGnG8jXjZS?usp=drive_link"> Video dokumentasi dan File Laporan </a> </p>
